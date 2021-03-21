@@ -52,7 +52,7 @@ Then just execute the our reverse shell file using browser and gets the reverse 
 ![Algorithm schema](./3.png)
 
 
-### command execution
+## Command execution
 
 
 I also added "file" get paramter so that if something does't work use this to execute the command
