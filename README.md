@@ -24,16 +24,18 @@ $ https://www.armourinfosec.test/wp-content/plugins/shell/upload.php
 ```
 Use this upload functionality to upload the shell.
 
-![Algorithm schema](./3.png)
+
+![Algorithm schema](./4.png)
+
 ```
 $ https://www.armourinfosec.test/wp-content/plugins/shell/php-reverse-shell.php
 ``` 
+
 Then just execute the our reverse shell file using browser and gets the reverse shell.
 
 
+![Algorithm schema](./3.png)
 
-
-![Algorithm schema](./4.png)
 
 
 ### command execution
